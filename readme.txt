@@ -1,2 +1,1 @@
-Meu primeiro projeto Git
-Aprendendo git passo a passo com commits
+Esse é meu primeiro projeto versionado com Git e GitHub.
